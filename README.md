@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Nathalia Garcia
-- 👀 I’m interested in Desenvolvimento FrontEnd
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTM5 e CSS3
 - 📫 You can contact me here 🔻
 
