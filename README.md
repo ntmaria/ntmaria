@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Nathalia Garcia
 👀 I’m interested in front-end development<br>
 🌱 I’m currently learning HTM5 e CSS3<br>
-📫 You can contact me here 🔻<br>
+📫 You can contact me here 📩 ntmaria2@gmail.com <br>
 
  
 
